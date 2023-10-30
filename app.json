@@ -1,0 +1,58 @@
+{
+  "expo": {
+    "name": "Smart Health",
+    "slug": "smart_health_empire",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/heartios.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "updates": {
+      "fallbackToCacheTimeout": 45,
+      "url": "https://u.expo.dev/407bea97-4231-4896-8257-cda9331c8dac"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.smarthealthapp.api"
+    },
+    "android": {
+      "package": "com.smarthealthapp.api",
+      "permissions": [
+        "CAMERA",
+        "WRITE_EXTERNAL_STORAGE",
+        "ACCESS_COARSE_LOCATION",
+        "ACCESS_FINE_LOCATION",
+        "RECORD_VIDEO",
+        "RECORD_AUDIO",
+        "LOCATION",
+        "READ_EXTERNAL_STORAGE",
+        "NOTIFICATIONS"
+      ],
+      "versionCode": 10010,
+      "googleServicesFile": "./google-services.json",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/heartios.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "bundler": "metro",
+      "favicon": "./assets/images/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "407bea97-4231-4896-8257-cda9331c8dac"
+      }
+    },
+    "owner": "empiredigitals",
+    "runtimeVersion": "1.0.0"
+  }
+}

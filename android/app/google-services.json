@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "48619118693",
+    "firebase_url": "https://wetowing-9fcd4.firebaseio.com",
+    "project_id": "wetowing-9fcd4",
+    "storage_bucket": "wetowing-9fcd4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48619118693:android:c9bf31d341c18c3fcce68c",
+        "android_client_info": {
+          "package_name": "com.lifestylenewapp.api"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48619118693-anl7rv2d65rmo08adlkraickqt9erdvp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV7AyJHACZpiQwpTsof3siP4d25cU38Is"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48619118693-anl7rv2d65rmo08adlkraickqt9erdvp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48619118693:android:1d9c7057d34e936dcce68c",
+        "android_client_info": {
+          "package_name": "com.uberflirt.api"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48619118693-anl7rv2d65rmo08adlkraickqt9erdvp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV7AyJHACZpiQwpTsof3siP4d25cU38Is"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48619118693-anl7rv2d65rmo08adlkraickqt9erdvp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
